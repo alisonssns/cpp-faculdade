@@ -1,0 +1,38 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "OlaMundo",
+      "request": "launch",
+      "mainClass": "OlaMundo",
+      "projectName": "c++ facul_c7bbc9ca"
+    },
+    {
+      "type": "java",
+      "name": "ob",
+      "request": "launch",
+      "mainClass": "ob",
+      "projectName": "c++ facul_c7bbc9ca"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/aliso/Downloads/c++ facul",
+      "program": "c:/Users/aliso/Downloads/c++ facul/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
